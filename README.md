@@ -16,11 +16,11 @@ Kuramoto: Contains MATLB code of the  Euler algorithm to simulate the higher-ord
 
 The folder Models contains two subfolders:
 
-  simplicial complexes: generating simplicial complexes from NGFs and Configuration model of simplicial complexes
-                      the main (MATLAB) code generating all the parameters necessary to run the Kuramoto simulation is Parameters_simplices.m
+  simplicial complexes: generating simplicial complexes from NGFs and Configuration model of simplicial complexes.
+                      The main (MATLAB) code generating all the parameters necessary to run the Kuramoto simulation is Parameters_simplices.m
 
-  random graphs: generates networks and clique complex of Poisson networks and scale-free networks
-               the main (MATLAB) code generating all the parameters necessary to run the Kuramoto simulation is Parameters_configuration.m
+  random graphs: generates networks and clique complex of Poisson networks and scale-free networks.
+                The main (MATLAB) code generating all the parameters necessary to run the Kuramoto simulation is Parameters_configuration.m
                
 The folder Kuramoto contains the MATLAB code to run the higher-order Kuramoto model on networks and simplicial complexes
 
