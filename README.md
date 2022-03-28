@@ -6,7 +6,6 @@ Accompaining code for "Higher-order simplicial synchronization of coupled topolo
 If you use any of these codes, please cite the following two  papers:
 
 1. Ghorbanchian, R., Restrepo, J.G., Torres, J.J. and Bianconi, G., 2021. Higher-order simplicial synchronization of coupled topological signals. Communications Physics, 4(1), pp.1-13.  https://doi.org/10.1038/s42005-021-00605-4
-
 2.Millán, A.P., Torres, J.J. and Bianconi, G., 2020. Explosive higher-order Kuramoto dynamics on simplicial complexes. Physical Review Letters, 124(21), p.218301. https://doi.org/10.1103/PhysRevLett.124.218301
 
 This repository contains the following two folders:
